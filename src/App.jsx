@@ -2,7 +2,7 @@ import React from "react";
 
 const App = () => {
   return (
-    <div style={{ color: "blue", textAlign: "center" }}>
+    <div style={{ color: "red", textAlign: "center" }}>
       <h1>Deployed React Basic Starter</h1>
     </div>
   );
